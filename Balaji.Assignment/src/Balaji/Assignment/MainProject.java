@@ -26,7 +26,7 @@ public class MainProject {
   int option;
   do {
   System.out.println("Enter the options that you want to select : \n");
-  System.out.println("\t1. Retrieve current filenames in a sequntial order \n");
+  System.out.println("\t1. Retrieve current filenames in a sequential order \n");
   System.out.println("\t2. Business-level operation menu \n");
   System.out.println("\t3. Exit from the application \n");
   
